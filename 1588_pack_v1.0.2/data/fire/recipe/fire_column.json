@@ -7,9 +7,15 @@
     " b "
   ],
   "key": {
-    "a": {
-      "item": "minecraft:coal"
-    },
+    "a": [
+       {
+        "item": "minecraft:coal"
+       },
+
+       {
+         "item": "minecraft:charcoal"
+       }
+    ],
     "b": [
       {
         "item": "minecraft:oak_planks"
