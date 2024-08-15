@@ -1,0 +1,20 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:torch"
+    },
+    "title": "這不是火把，是火柱",
+    "description": {
+      "text": "把它拿在手上時蹲下似乎會發生什麼事......"
+    }
+  },
+  "parent": "fire:root",
+  "criteria": {
+    "re": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "fire:fire_column"
+      }
+    }
+  }
+}

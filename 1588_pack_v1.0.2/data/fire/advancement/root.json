@@ -1,0 +1,19 @@
+{
+    "display": {
+      "icon": {
+        "id": "minecraft:music_disc_13"
+      },
+      "title": "隨機垃圾",
+      "description": "作者:Poal\n總之就是一堆詭異的東西",
+      "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+      "show_toast": true,
+      "announce_to_chat": false,
+      "hidden": true
+    },
+    "criteria": {
+      "t": {
+        "trigger": "minecraft:tick"
+      }
+    }
+  }
+  
