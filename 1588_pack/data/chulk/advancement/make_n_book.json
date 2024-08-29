@@ -1,0 +1,14 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "chulk:n_book"
+      }
+    }
+  },
+  "rewards": {
+    "function": "chulk:give"
+  },
+  "sends_telemetry_event": false
+}

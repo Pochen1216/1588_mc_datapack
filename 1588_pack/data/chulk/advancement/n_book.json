@@ -1,0 +1,15 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "chulk:for_n_book"
+        }
+      }
+    },
+    "rewards": {
+      "function": "chulk:spawn"
+    },
+    "sends_telemetry_event": false
+  }
+  

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "sss",
+    "sas",
+    "sss"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:book"
+    },
+    "s": {
+      "item": "minecraft:sand"
+    }
+  },
+  "result": {
+    "id": "minecraft:knowledge_book",
+    "count": 1
+  },
+  "show_notification": false
+}

@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:knowledge_book"
+    },
+    "title": "成為真理",
+    "description": "要模考了，還玩麥塊? 負分，給我滾!"
+  },
+  "parent": "fire:root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "chulk:n_book"
+      }
+    }
+  },
+  "sends_telemetry_event": false
+}
