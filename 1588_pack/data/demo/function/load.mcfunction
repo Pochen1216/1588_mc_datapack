@@ -12,3 +12,5 @@ scoreboard players add five number 5
 
 
 function fire:load
+function tnt:load
+function chulk:load
